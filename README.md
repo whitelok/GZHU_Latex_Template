@@ -31,3 +31,22 @@
 > appendix.tex 为附录文件
 
 > acknowledgement.tex 为致谢文件
+
+使用说明
+-----------------------------------
+  1.首先安装Latex及其编译环境（推荐安装texlive）
+
+  2.打开main.tex查看文件目录
+  
+  3.修改title.tex封面文件
+  
+  4.修改其他tex文件
+
+  5.在修改引用文献的时候主要是修改paper.bib
+
+  6.编译时使用compile.sh即可
+
+问题反馈
+-----------------------------------
+Email:whitelok@163.com
+QQ:195586558
