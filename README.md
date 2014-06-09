@@ -11,13 +11,23 @@
 文件架构
 -----------------------------------
 > main.tex 主文件，用于包含其他文件如：摘要文件，章节文件等
+
 > title.tex 填写封面信息的文件
+
 > cabstract.tex 为中文摘要
+
 > ckeywords.tex 为中文关键字
+
 > eabstract.tex 为英文摘要
+
 > ekeywords.tex 为英文关键字
+
 > preface.tex 为前言
+
 > chapter*.tex 为章节正文内容
+
 > references.tex 为参考文献
+
 > appendix.tex 为附录文件
+
 > acknowledgement.tex 为致谢文件
