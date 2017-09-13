@@ -8,7 +8,6 @@
 
  - 躲过论文查重系统
 
-
 ## 文件架构
 
 > main.tex 主文件，用于包含其他文件如：摘要文件，章节文件等
@@ -49,4 +48,4 @@
 
 ## 问题反馈
 
-email:whitelok@163.com || whitelok@gmail.com
+email: whitelok@163.com or whitelok@gmail.com
